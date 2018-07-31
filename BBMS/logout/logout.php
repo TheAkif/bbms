@@ -1,10 +1,5 @@
-<?php include '../connection/connection.php'; 
-session_start();
-session_unset();
-session_destroy();
-
-header("Location: ../login/login.php");
-
-
-
-?>
+<?php include '../connection/connection.php'; ?>
+<?php session_start(); ?>
+<?php session_unset(); ?>
+<?php session_destroy(); ?>
+<?php header("Location: ../login/login.php");?>
