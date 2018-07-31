@@ -1,0 +1,7 @@
+Actions folder contains: 
+  Approving donors, 
+  Declining donors, 
+  Deleting donors/admins,
+  Editing details of own and admins/donors, 
+  Creating new admins/donors,
+  Main page of requests which redirects the super admin to approve or decline the requests.
